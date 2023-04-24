@@ -19,4 +19,5 @@ Groups and nilpotent Lie rings whose order is the sixth power of a prime, J. Alg
 Presentations for the groups of order $p^6$ for prime $p \geq 7$, arXiv:2302.02677 [math.GR].
 
 M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee
+
 April 2023
