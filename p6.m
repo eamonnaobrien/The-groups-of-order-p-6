@@ -1,4 +1,3 @@
- 
 /* GroupsOfOrderp6 (p) returns presentations for groups of order p^6 for given prime p > 5 */
 
 import "Phi1.m":Phi1;
@@ -104,10 +103,4 @@ assert #X eq expected;
 return X;
 
 end function;
-
-
-intrinsic Internal_p6_list(p::RngIntElt) -> SeqEnum
-{For internal use}
-    return GroupsOfOrderp6(p);
-end intrinsic;
 
