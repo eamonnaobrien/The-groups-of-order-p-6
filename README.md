@@ -18,7 +18,7 @@ X := EasterfieldPhi6(11);
 Groups and nilpotent Lie rings whose order is the sixth power of a prime, J. Algebra, 278, 383-401, 2004.
 
 [arXiv] M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee,
-Presentations for the groups of order $p^6$ for prime $p \geq 7$, http://arXiv:2302.02677 [math.GR].
+Presentations for the groups of order $p^6$ for prime $p \geq 7$, https://arxiv.org/abs/2302.02677
 
 M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee
 
