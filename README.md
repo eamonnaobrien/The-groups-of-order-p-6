@@ -7,16 +7,18 @@ For detailed instruction see the Magma online manual at http://magma.maths.usyd.
 Here's a quick guide to load the contents of one of these files into Magma. 
 
 % magma
+
 AttachSpec ("spec");
 
 import "Phi6.m": EasterfieldPhi6;
+
 X := EasterfieldPhi6(11);
 
 [NOVL] M.F. Newman, E.A. O'Brien, and M.R. Vaughan-Lee,
 Groups and nilpotent Lie rings whose order is the sixth power of a prime, J. Algebra, 278, 383-401, 2004.
 
 [arXiv] M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee,
-Presentations for the groups of order $p^6$ for prime $p \geq 7$, arXiv:2302.02677 [math.GR].
+Presentations for the groups of order $p^6$ for prime $p \geq 7$, http://arXiv:2302.02677 [math.GR].
 
 M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee
 
