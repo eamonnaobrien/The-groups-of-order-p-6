@@ -1,3 +1,8 @@
+The groups of order p^6 where prime p >= 7
+
+M.F. Newman, E.A. O'Brien, and M.R. Vaughan-Lee
+
+
 In this repository are files providing electronic access via Magma to presentations for groups of order p^6 where p >= 7.
 
 The files are organised by isoclinism family Phi1, ..., Phi43.  These are copies of the files distributed as part of the SmallGroups library in Magma and reflect the presentations stored in [arXiv]. They were prepared originally as part of [NOVL]. 
@@ -22,6 +27,3 @@ Groups and nilpotent Lie rings whose order is the sixth power of a prime, J. Alg
 [arXiv] M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee,
 Presentations for the groups of order $p^6$ for prime $p \geq 7$, https://arxiv.org/abs/2302.02677
 
-M.F. Newman, E.A. O'Brien and M.R. Vaughan-Lee
-
-April 2023
