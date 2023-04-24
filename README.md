@@ -12,6 +12,8 @@ AttachSpec ("spec");
 
 import "Phi6.m": EasterfieldPhi6;
 
+// return all groups of order 11^6 in Phi6 
+
 X := EasterfieldPhi6(11);
 
 [NOVL] M.F. Newman, E.A. O'Brien, and M.R. Vaughan-Lee,
