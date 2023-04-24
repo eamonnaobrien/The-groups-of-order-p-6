@@ -1,7 +1,5 @@
-freeze;
  
-/* GroupsOfOrderp6 (p) returns corrected list of 
-   Easterfield presentations for given prime p > 5 */
+/* GroupsOfOrderp6 (p) returns presentations for groups of order p^6 for given prime p > 5 */
 
 import "Phi1.m":Phi1;
 import "Phi2.m":EasterfieldPhi2;
@@ -50,8 +48,8 @@ import "misc.m":NonQuadraticResidue, EasterfieldPair;
 
 GroupsOfOrderp6 := function (p)
 
-if not IsPrime (p) or p lt 5 then 
-   "p must be at least 5";
+if not IsPrime (p) or p lt 7 then 
+   "p must be at least 7";
    return false;
 end if;
 
