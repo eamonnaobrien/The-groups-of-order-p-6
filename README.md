@@ -1,6 +1,6 @@
 In this repository are files providing electronic access via Magma to presentations for groups of order p^6 where p >= 7.
 
-The files are organised by isoclinism family Phi1, ..., Phi43.  These are copies of the files distributed as part of the SmallGroups library in Magma and reflect the presentations stored in [arXiv]. These arise from the work [NOVL]. 
+The files are organised by isoclinism family Phi1, ..., Phi43.  These are copies of the files distributed as part of the SmallGroups library in Magma and reflect the presentations stored in [arXiv]. They were prepared originally as part of [NOVL]. 
 
 For detailed instruction see the Magma online manual at http://magma.maths.usyd.edu.au/magma/ 
 
